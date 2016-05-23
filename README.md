@@ -13,4 +13,4 @@ Eclipse library project based on:<br/>
 - https://android-developers.blogspot.com/2016/05/google-play-services-90-updates.html
 
 **SVN checkout:**<br/>
-https://github.com/dandar3/android-google-play-services-ads-lite/tags/9.0.0
+- https://github.com/dandar3/android-google-play-services-ads-lite/tags/9.0.0
