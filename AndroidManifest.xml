@@ -15,8 +15,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.google.android.gms.ads"
-          android:versionCode="902"
-          android:versionName="9.0.2">
+          android:versionCode="920"
+          android:versionName="9.2.0">
 
     <!-- Include required permissions for Google Mobile Ads to run-->
     <uses-permission android:name="android.permission.INTERNET"/>
