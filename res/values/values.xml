@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <declare-styleable name="AdsAttrs"><attr format="string" name="adSize"/><attr format="string" name="adSizes"/><attr format="string" name="adUnitId"/></declare-styleable>
-    <!-- From: file:/tmp/tmp-deduplicated2520997495337925953/java/com/google/android/gmscore/integ/client/admob/res/values/iap_style.xml -->
+    <!-- From: file:/tmp/aar_gen_tmp6883646862402496153/tmp-deduplicated/java/com/google/android/gmscore/integ/client/admob/res/values/iap_style.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
     <item name="android:windowIsTranslucent">true</item>
