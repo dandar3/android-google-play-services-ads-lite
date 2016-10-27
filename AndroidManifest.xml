@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.ads"
-    android:versionCode="961"
-    android:versionName="9.6.1">
+    android:versionCode="980"
+    android:versionName="9.8.0">
 
     <!-- Include required permissions for Google Mobile Ads to run-->
     <uses-permission android:name="android.permission.INTERNET"/>
