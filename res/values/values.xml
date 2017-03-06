@@ -12,4 +12,11 @@
 </style>
 <!-- java/com/google/android/gmscore/integ/client/admob/res/values/ads_attrs.xml -->
 <eat-comment/>
+<declare-styleable name="AdsAttrs">
+<attr name="adSize" format="string"/>
+
+<attr name="adSizes" format="string"/>
+
+<attr name="adUnitId" format="string"/>
+</declare-styleable>
 </resources>
