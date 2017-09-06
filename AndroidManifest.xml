@@ -14,8 +14,8 @@
      limitations under the License.
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.gms.ads"
-    android:versionCode="1102"
-    android:versionName="11.0.2">
+    android:versionCode="1120"
+    android:versionName="11.2.0">
 
     <!-- Include required permissions for Google Mobile Ads to run-->
     <uses-permission android:name="android.permission.INTERNET"/>
@@ -24,6 +24,6 @@
     <uses-sdk android:minSdkVersion="14"/>
     <application>
         <!--Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
-        <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent"/>
+        <activity android:name="com.google.android.gms.ads.AdActivity" android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" android:theme="@android:style/Theme.Translucent" android:exported="false"/>
     </application>
 </manifest>
