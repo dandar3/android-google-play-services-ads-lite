@@ -10,7 +10,7 @@ https://maven.google.com/com/google/android/gms/play-services-ads-lite/15.0.0/pl
 
 **References:**
 - https://firebase.google.com/docs/admob/android/lite-sdk
-- https://developers.google.com/android/guides/releases#march_28_2018_-_version_1201
+- https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
