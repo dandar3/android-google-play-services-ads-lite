@@ -1,11 +1,11 @@
 ## google-play-services-ads-lite
 
 Eclipse library project based on:<br/>
-https://maven.google.com/com/google/android/gms/play-services-ads-lite/19.0.0/play-services-ads-lite-19.0.0.aar
+https://maven.google.com/com/google/android/gms/play-services-ads-lite/19.1.0/play-services-ads-lite-19.1.0.aar
 
 **Import:**
 - _File > Import... > Team > Team Project Set > URL:_<br/>
-  https://raw.githubusercontent.com/dandar3/android-google-play-services-ads-lite/19.0.0/.projectset
+  https://raw.githubusercontent.com/dandar3/android-google-play-services-ads-lite/19.1.0/.projectset
 
 **Notes:** <img src="https://raw.githubusercontent.com/google/material-design-icons/master/alert/1x_web/ic_error_outline_black_24dp.png" align="top" />
 - _Tag **&lt;provider&gt;** attribute **authorities** has invalid character '$'._<br/>
