@@ -9,5 +9,6 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-ads-base"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-basement"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/google-play-services-measurement-sdk-api"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/google-ump-user-messaging-platform"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>

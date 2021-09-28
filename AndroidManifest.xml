@@ -16,8 +16,8 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.ads" 
-    android:versionCode="1970"
-    android:versionName="19.7.0">
+    android:versionCode="1980"
+    android:versionName="19.8.0">
 
     <uses-sdk android:minSdkVersion="16" />
 
