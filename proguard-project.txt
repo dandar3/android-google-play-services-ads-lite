@@ -34,10 +34,14 @@
   public *;
 }
 
+# Keeps the entry for full SDK to access via reflection.
+-keep class com.google.android.gms.ads.internal.client.LiteSdkInfo {
+  public *;
+}
 
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep
 # rule, fields may be removed that would cause runtime failures.
--keepclassmembers class * extends com.google.android.gms.internal.ads.zzgkl {
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzgko {
   <fields>;
 }

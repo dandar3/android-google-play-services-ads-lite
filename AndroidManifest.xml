@@ -16,10 +16,10 @@
 -->
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.google.android.gms.ads" 
-    android:versionCode="2060"
-    android:versionName="20.6.0">
+    android:versionCode="2100"
+    android:versionName="21.0.0">
 
-    <uses-sdk android:minSdkVersion="16" />
+    <uses-sdk android:minSdkVersion="19" />
 
     <!-- Include required permissions for Google Mobile Ads to run -->
     <uses-permission android:name="android.permission.INTERNET" />
