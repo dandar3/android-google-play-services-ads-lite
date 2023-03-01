@@ -39,9 +39,14 @@
   public *;
 }
 
+# Keeps the entry for first party plugins to access via reflection.
+-keep class com.google.android.gms.ads.MobileAds {
+  private void setPlugin(java.lang.String);
+}
+
 # We keep all fields for every generated proto file as the runtime uses
 # reflection over them that ProGuard cannot detect. Without this keep
 # rule, fields may be removed that would cause runtime failures.
--keepclassmembers class * extends com.google.android.gms.internal.ads.zzgsw {
+-keepclassmembers class * extends com.google.android.gms.internal.ads.zzgyd {
   <fields>;
 }

@@ -17,8 +17,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.google.android.gms.ads" 
-    android:versionCode="2140"
-    android:versionName="21.4.0">
+    android:versionCode="2150"
+    android:versionName="21.5.0">
 
     <uses-sdk android:minSdkVersion="19" />
 
@@ -26,6 +26,9 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+    <uses-permission
+        android:name="android.permission.RECEIVE_BOOT_COMPLETED"
+        tools:node="remove" />
 
     <!-- Android package visibility setting -->
     <queries>
